@@ -27,7 +27,7 @@ There has been numeruous advancements towards utilizing deep networks, ANNs, AI,
 | ---      | ---       |
 | GrayScaled Image | ![alt text](https://raw.githubusercontent.com/sunnyshah2894/DigitalHairRemoval/master/outputImages/grayScale_sample2.jpg) |
 | BlackHat filtering result     | ![alt text](https://raw.githubusercontent.com/sunnyshah2894/DigitalHairRemoval/master/outputImages/blackhat_sample2.jpg) |
-| Thresholded image for inpainting | ![alt text](https://raw.githubusercontent.com/sunnyshah2894/DigitalHairRemoval/master/outputImages/thresholded_sampl2.jpg) |
+| Thresholded image for inpainting | ![alt text](https://raw.githubusercontent.com/sunnyshah2894/DigitalHairRemoval/master/outputImages/thresholded_sample2.jpg) |
 | Image after Inpainting| ![alt text](https://raw.githubusercontent.com/sunnyshah2894/DigitalHairRemoval/master/outputImages/InPainted_sample2.jpg) |
 
 ## Library
